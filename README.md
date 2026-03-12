@@ -1,1 +1,1 @@
-# blog-preview-card
+This is my second Frontend Mentor challenge! For this project, I created a Blog Preview Card! 
